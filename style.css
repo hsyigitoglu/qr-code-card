@@ -22,6 +22,12 @@ body{
     --font-project:"Outfit";
     --box-shadow: .1rem -0.03rem .5rem .1rem rgb(0 0 0 / 10%);
 }
+.contain{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
 .card{
     border-radius: 20px;
     box-shadow: var(--box-shadow);
