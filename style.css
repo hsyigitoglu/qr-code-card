@@ -31,6 +31,8 @@ body{
 .card{
     border-radius: 20px;
     box-shadow: var(--box-shadow);
+    width: 350px; 
+    height: auto;
 }
 picture{
     padding: 20px;
